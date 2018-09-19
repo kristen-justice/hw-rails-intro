@@ -45,6 +45,6 @@ $ rake db:seed
 </details>
 <br />
 
-At this point you should be able to run the app locally (`rails server`) and navigating to `http://localhost:3000/movies` in your browser.  If you are using Codenvy, use the play button and navigate to the link generated within codenvy.
+At this point you should be able to run the app locally (`rails server`) and navigating to `http://localhost:3000/movies` in your browser.  **If you are using Codenvy, use the play button and navigate to the link generated within codenvy**.
 
 Next: [Part 0 (B): Preparation: deploy to Heroku](part_0_B.md)
